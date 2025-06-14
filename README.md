@@ -17,7 +17,7 @@ This project aims to **detect and extract metadata from digital images (like .jp
 - **Pandas**
 - **Exiftool (optional)** — for adding or modifying metadata externally.
 
-## 🔹 Installation
+## 🔹 Installation && Run
 
 1. **Clone this repository:**
 
@@ -25,5 +25,5 @@ This project aims to **detect and extract metadata from digital images (like .jp
 git clone https://github.com/{your-username}/metadata-leakage-detection.git
 
 
-```run
+
 streamlit run main.py
